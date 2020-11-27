@@ -1,6 +1,6 @@
 # TypeScript
 
-[![Build Status](https://travis-ci.org/zhongsp/TypeScript.svg?branch=master)](https://travis-ci.org/zhongsp/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://github.com/suyanhanx/TypeScript/workflows/Publish/badge.svg)](https://travis-ci.org/zhongsp/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <img src="./misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 4.0 (August 20, 2020)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
 |
@@ -12,7 +12,7 @@
 
 :link: [一大波新的快速开始指南：React，Angular，Nodejs，ASP.NET Core，React Native，Vue，Glimmer，WeChat，Dojo2，Knockout等](./doc/quick-start/README.md)
 
-<img src="./misc/reward.jpg" alt="Reward the Author" width="300px" height="300px" style="vertical-align: bottom;">  如果觉得不错可以微信打赏哟 <3
+[在线阅读](https://suyan.moe/TypeScript/)
 
 ## 目录
 
